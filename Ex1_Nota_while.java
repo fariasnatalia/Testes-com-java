@@ -6,7 +6,7 @@ import java.util.Scanner;
  *e continue pedindo 
  * até que o usuário informe o valor válido.
  /* */
-public class Ex1_Nota {
+public class Ex1_Nota_while {
   
     public static void main(String[] args) {
         try (Scanner scan = new Scanner (System.in)) {
