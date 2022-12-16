@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class Ex_MaiorEMedia {
    private static int count;
 
-/*Faça um programa que leia 5 número e informe o maior deles
-/*e a maior desses números.
+/*Faça um programa que leia 5 número, informe o maior deles
+/*e a média desses 5 números.
 
 /**
  * @param args
